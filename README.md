@@ -126,8 +126,6 @@ plt.legend()
 
 plt.show()
 
-
-
 ii) Natural sampling
 
 import numpy as np
@@ -222,8 +220,6 @@ plt.tight_layout()
 
 plt.show()
 
-
-
 iii) Flat top sampling
 
 import numpy as np
@@ -299,7 +295,6 @@ plt.show()
 i) Ideal Sampling:
 ![Screenshot 2025-03-30 121707](https://github.com/user-attachments/assets/0e8be8fe-63a9-4c01-a5c2-4db9ea9a4da0)
 ![Screenshot 2025-03-30 121725](https://github.com/user-attachments/assets/a835092c-331d-45b2-b4f0-6e8f13fb14e6)
-
 
 ii) Natural Samapling:
 ![natural](https://github.com/user-attachments/assets/0ec7783d-70d7-4690-9e39-4b55743f0ea3)
