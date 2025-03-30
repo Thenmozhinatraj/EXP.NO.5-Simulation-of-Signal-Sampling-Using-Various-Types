@@ -293,14 +293,20 @@ plt.show()
 # OUTPUT
 
 i) Ideal Sampling:
+
 ![Screenshot 2025-03-30 121707](https://github.com/user-attachments/assets/0e8be8fe-63a9-4c01-a5c2-4db9ea9a4da0)
+
 ![Screenshot 2025-03-30 121725](https://github.com/user-attachments/assets/a835092c-331d-45b2-b4f0-6e8f13fb14e6)
 
+
 ii) Natural Sampling:
+
 ![Screenshot 2025-03-30 123322](https://github.com/user-attachments/assets/806f856b-6053-4fe1-b48f-1740eaba5ebb)
+
 ![Screenshot 2025-03-30 123522](https://github.com/user-attachments/assets/81a480ba-f502-46b6-be0b-3fbf57ce2482)
 
 iii) Flat top Sampling:
+
 ![Screenshot 2025-03-30 123926](https://github.com/user-attachments/assets/da6422e9-505f-4c0a-86ed-b8bded83c2ea)
 
 
