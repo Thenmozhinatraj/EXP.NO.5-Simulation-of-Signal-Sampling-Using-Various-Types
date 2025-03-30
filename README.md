@@ -296,11 +296,12 @@ i) Ideal Sampling:
 ![Screenshot 2025-03-30 121707](https://github.com/user-attachments/assets/0e8be8fe-63a9-4c01-a5c2-4db9ea9a4da0)
 ![Screenshot 2025-03-30 121725](https://github.com/user-attachments/assets/a835092c-331d-45b2-b4f0-6e8f13fb14e6)
 
-ii) Natural Samapling:
-![natural](https://github.com/user-attachments/assets/0ec7783d-70d7-4690-9e39-4b55743f0ea3)
+ii) Natural Sampling:
+![Screenshot 2025-03-30 123322](https://github.com/user-attachments/assets/806f856b-6053-4fe1-b48f-1740eaba5ebb)
+![Screenshot 2025-03-30 123522](https://github.com/user-attachments/assets/81a480ba-f502-46b6-be0b-3fbf57ce2482)
 
 iii) Flat top Sampling:
-![falttopsample](https://github.com/user-attachments/assets/869f811e-8ed6-4c0b-9610-1f03f18a01fc)
+![Screenshot 2025-03-30 123301](https://github.com/user-attachments/assets/ad9ff3fc-f038-4188-9d38-7b241f6319fd)
 
 # RESULT / CONCLUSIONS
 
