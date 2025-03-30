@@ -301,7 +301,8 @@ ii) Natural Sampling:
 ![Screenshot 2025-03-30 123522](https://github.com/user-attachments/assets/81a480ba-f502-46b6-be0b-3fbf57ce2482)
 
 iii) Flat top Sampling:
-![Screenshot 2025-03-30 123301](https://github.com/user-attachments/assets/ad9ff3fc-f038-4188-9d38-7b241f6319fd)
+![Screenshot 2025-03-30 123926](https://github.com/user-attachments/assets/da6422e9-505f-4c0a-86ed-b8bded83c2ea)
+
 
 # RESULT / CONCLUSIONS
 
