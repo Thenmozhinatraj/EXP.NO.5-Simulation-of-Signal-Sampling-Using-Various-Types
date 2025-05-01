@@ -54,6 +54,7 @@ Hold the sampled value constant for duration 𝜏.
 
 i) Impulse Sampling
 
+```python
 import numpy as np
 
 import matplotlib.pyplot as plt
@@ -125,7 +126,8 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
-
+```
+```python
 ii) Natural sampling
 
 import numpy as np
@@ -219,7 +221,8 @@ plt.grid(True)
 plt.tight_layout()
 
 plt.show()
-
+```
+```python
 iii) Flat top sampling
 
 import numpy as np
@@ -289,6 +292,7 @@ plt.legend()
 plt.tight_layout()
 
 plt.show()
+```
 
 # OUTPUT
 
@@ -311,11 +315,9 @@ iii) Flat top Sampling:
 
 
 # RESULT / CONCLUSIONS
-
+```
 The continuous sinusoidal signal was successfully sampled using impulse, natural, and flat-top sampling techniques. 
-
 The sampling was performed at a rate (50 Hz) higher than twice the signal frequency (5 Hz), satisfying the Nyquist criterion. 
-
 The reconstruction using a low-pass filter accurately recovered the original waveform, with minimal natural and slight amplitude distortion in flat-top sampling. 
-
 The experiment demonstrates the fundamental principles of sampling and signal reconstruction.
+```
